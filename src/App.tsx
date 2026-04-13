@@ -141,7 +141,7 @@ const App = () => {
           <div className="absolute w-[80%] h-[80%] bg-gradient-to-tr from-[#FCA61F] to-orange-300 rounded-full blur-3xl opacity-20 animate-pulse" />
 
           {/* Main Portrait Placeholder - User should replace hisyam.png */}
-          <div className="relative z-10 w-[400px] h-[400px] md:w-[500px] md:h-[500px]">
+          <div className="relative z-10 w-[500px] h-[500px] md:w-[700px] md:h-[700px]">
             <img
               src={heroImage}
               alt="Hisyam Farki"
